@@ -1,0 +1,89 @@
+/* a {
+     color: yellow;
+    background-color: green;
+} */
+
+
+.back {
+    color: yellow;
+    background-color: green;
+}
+
+#cont {
+    color: aqua;
+    background-color: rgb(151, 135, 63);
+    background-color: #00ffff;
+
+
+}
+
+
+
+.increase {
+    font-size: 2rem;
+}
+
+.weight-inc {
+    
+    font-weight: 900;
+}
+
+.weight-dec {
+    font-weight: 100;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: none;
+}
+
+
+.heading {
+    text-decoration: line-through red wavy;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 3rem;
+    text-align: center;
+
+    text-transform: uppercase;
+
+    text-shadow: 10px 4px 2px lightgray;
+    
+    
+    
+}
+
+.family1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.family2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    color: cyan;
+    background-color: antiquewhite;
+
+
+    /* width: 50%; */
+    /* width: 50vw; */
+
+    width: 1350px;
+    height: 50vh;
+    
+    
+    background-image: url("/imgs/hd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    
+    
+}
+
+
+
